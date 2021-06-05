@@ -19,9 +19,12 @@ How to Use It:
 -Type 1080p for 1080p Quality.
 -Like this you can enter any quality of youtube videos that videos supports.
 - Click on Download Video Button.
--A dialog will ask for Save Video location.Goto folder where you want to Save your downloaded Youtube Videos.
--Then,Video Downloading will start wait for sometime.
--Your Video will be downloaded.
+
+- A dialog will ask for Save Video location.Goto folder where you want to Save your downloaded Youtube Videos.
+
+Then,Video Downloading will start wait for sometime.
+
+Your Video will be downloaded.
 
 While Downloading only audio.
 Give URL Only and click on Download Audio Only Button.
