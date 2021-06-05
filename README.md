@@ -10,18 +10,18 @@ It comes with features:
 - Save any where you want.
 
 How to Use It:
-i) Copy URL of Youtube Videos.
-ii) Paste it to textbox asking for URL Of Youtube Videos.
-iii) Enter quality you want.
-Type 360p for 360p Quality.
-Type 480p for 480p Quality.
-Type 720p for 720p Quality.
-Type 1080p for 1080p Quality.
-Like this you can enter any quality of youtube videos that videos supports.
-iv) Click on Download Video Button.
-v)A dialog will ask for Save Video location.Goto folder where you want to Save your downloaded Youtube Videos.
-Then,Video Downloading will start wait for sometime.
-Your Video will be downloaded.
+- Copy URL of Youtube Videos.
+- Paste it to textbox asking for URL Of Youtube Videos.
+- Enter quality you want.
+-Type 360p for 360p Quality.
+-Type 480p for 480p Quality.
+-Type 720p for 720p Quality.
+-Type 1080p for 1080p Quality.
+-Like this you can enter any quality of youtube videos that videos supports.
+- Click on Download Video Button.
+-A dialog will ask for Save Video location.Goto folder where you want to Save your downloaded Youtube Videos.
+-Then,Video Downloading will start wait for sometime.
+-Your Video will be downloaded.
 
 While Downloading only audio.
 Give URL Only and click on Download Audio Only Button.
