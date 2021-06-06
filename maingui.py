@@ -7,10 +7,10 @@ from main import *
     
 
 def down():
-    link = urlentry.get()
+    downlink = urlentry.get()
     qualiti = qualentry.get()
     filename = fd.askdirectory(initialdir='/',title="Save")
-    url = link
+    url = downlink
     path = filename+"/"
 
     try:
@@ -24,10 +24,10 @@ def down():
     print("Complete Download")
 
 def downloadsong():
-    link = urlentry.get()
+    downlink = urlentry.get()
     filename = fd.askdirectory(initialdir='/',title="Save To")
     path = filename+"/"
-    url = link
+    url = downlink
 
     try:
         link = pytube.YouTube(url)
